@@ -1,12 +1,12 @@
 ---
 layout: post
-title: First Post
+title: My First Post
 description: YoYoYo my first post
 category: blog
 ---
 
 ##Thanks
-第一篇首先当然要感谢[康达][]推荐这个搭博客方法，还有[BeiYuu][]提供教程和模板。
+感谢[大黄][]和[BeiYuu][]。
 
-[康达]: http://kangda.github.com/
+[大黄]: http://hjyoite.github.io/
 [BeiYuu]: http://beiyuu.com/
