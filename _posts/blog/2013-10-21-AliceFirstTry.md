@@ -6,7 +6,7 @@ category: blog
 ---
 
 
-存在感
+存在感[BeYuu][]
 
 
-[BeiYuu]:    http://beiyuu.com  "BeiYuu"
+[BeiYuu]: http://beiyuu.com/
