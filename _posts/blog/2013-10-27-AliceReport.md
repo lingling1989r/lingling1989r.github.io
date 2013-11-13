@@ -99,6 +99,49 @@ processes such as the rate of radioactive decay or requests coming into a web se
 今天开始写专利，周二了，最差周三周四弄完，因为周五要拿过去。
 
 
+###【2013-11-11】
+
+专利没弄完，空缺的日子里是最动荡的几天。
+有种还没想好什么，时光就把你出卖了，是措手不及，尴尬的无所适从。
+谁敢想未来？有些小心翼翼。
+
+
+
+###【2013-11-13】
+周三了。
+总算知道为啥回望总是幸福的了，悲愤的不会记下。这让我们的回望只是满怀硕果。好的结果所经历的过程也许是所排斥的，宁愿是个单纯的过程，结果好坏就顺其自然了。
+
+旧社会穷苦人民被三座大山压迫的喘不过气的感同身受，是完全沦落在时代推动中走到这分岔口，人民还没有找到救赎的工具，人民还活在愚钝中没有作战经验，而此刻，就要挥着锄头牵着黄牛做个抉择选个队伍奔往前线，能理解他们每走一步都强忍着颤抖的步伐。
+
+
+1,SimPy 的Yield找到了解决办法：
+
+	def execute(self):
+		for x in self.hungry():
+			yield x
+
+	def hungry(self):
+		yield hold,self ,3
+
+参考链接： 
+http://stackoverflow.com/questions/8296892/python-simpy-using-yield-inside-functions?rq=1
+
+
+2, SImpy相关的模型：
+http://simpy.sourceforge.net/old/SimPy_Examples/ListOfModels.html#messages-on-a-jackson-network-jacksonnetwork-py-jacksonnetwork-oo-py
+
+client-server模型等，但没有看懂。
+
+3， 怎样模拟和现实时间相同的东西？
+
+
+自己敲不出代码的，能适应么，压力太大会不会也受不了，会不会身体不好，会不会没成长什么，很奇葩。。
+
+还有。。我们怎么办？有时候也会有点不想分开了。。。我真的是个心思很重的女生，难怪这么早熟思维奇葩。。
+
+总是学习着又想到这里。。最近都会是我心里的疙瘩。。
+
+
 ##待办事项
 ---------2013-10-27-----------
 
